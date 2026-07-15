@@ -1,0 +1,2 @@
+beta.enabled=true
+beta.name=module-beta
